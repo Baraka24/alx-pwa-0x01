@@ -11,6 +11,7 @@ const nextConfig = {
   images: {
     domains: ['m.media-amazon.com'],
   },
+  turbopack: {},
 };
 
 export default withPWA({
